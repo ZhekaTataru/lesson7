@@ -1,0 +1,98 @@
+.head {
+    background-color: aliceblue;
+    height: 600px;
+    width: 70%;
+    margin-bottom: 30px;
+}
+.head2 {
+    background-color: rgb(25, 136, 233);
+    height: 600px;
+    width: 70%;
+}
+.q1 {
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+}
+.q2 {
+    background-color: rgb(19, 226, 71);
+    height: 200px;
+    width: 100%;
+}.q3 {
+    background-color: rgb(238, 26, 26);
+    height: 200px;
+    width: 100%;
+}
+.w {
+    background-color: rgb(219, 233, 27);
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+.w1 {
+    background-color: rgb(20, 216, 85);
+    height: 200px;
+    width: 35%
+}
+.w2 {
+    background-color: rgb(123, 7, 190);
+    height: 200px;
+    width: 30%
+}
+.w3 {
+    background-color: rgb(248, 252, 5);
+    height: 200px;
+    width: 35%
+}
+.e {
+    background-color: rgb(25, 136, 233);
+    height: 200px;
+    width: 100%;
+}
+.r {
+    background-color: blue;
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+.r1 {
+    background-color: rgb(217, 9, 245);
+    height: 200px;
+    width: 50%;
+}
+.r2 {
+    background-color: rgba(0, 255, 98, 0.719);
+    height: 200px;
+    width: 50%;
+}
+.head3 {
+    background-color: rgb(14, 194, 104);
+    height: 300px;
+    width: 60%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.t1 {
+    background-color: crimson;
+    height: 150px;
+    width: 20%;
+   margin-top: 70px;
+
+}
+.t2 {
+    background-color: crimson;
+    height: 150px;
+    width: 20%;
+    margin-top: 70px;
+
+}
+.t3 {
+    background-color: crimson;
+    height: 150px;
+    width: 20%;
+    margin-top: 70px;
+    
+
+}
